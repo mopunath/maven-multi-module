@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sree.training.multi</groupId>
 	<artifactId>multimodule</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
 		<module>weather</module>
@@ -254,7 +254,7 @@
 		<url>https://github.com/sreechoudary/maven-multi-module.git</url>
 		<connection>scm:git:https://github.com/sreechoudary/maven-multi-module.git</connection>
 		<developerConnection>scm:git:https://github.com/sreechoudary/maven-multi-module.git</developerConnection>
-	  <tag>multimodule-1.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<distributionManagement>
 		<repository>
