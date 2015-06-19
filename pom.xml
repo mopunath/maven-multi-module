@@ -254,7 +254,7 @@
 	<scm>
 		<url>https://github.com/sreechoudary/maven-multi-module.git</url>
 		<connection>scm:git:https://github.com/sreechoudary/maven-multi-module.git</connection>
-		<developerConnection>scm:svn:https://github.com/sreechoudary/maven-multi-module.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/sreechoudary/maven-multi-module.git</developerConnection>
 	</scm>
 	<distributionManagement>
 		<repository>
